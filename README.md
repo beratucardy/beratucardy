@@ -4,7 +4,7 @@
 
 <h3 align="center">FULL STACK JAVA DEVELOPER</h3>
 
-<p align="justify">As a Java Full Stack Developer with 2+ experience, responsible for designing and developing code for software components and applications based on non-functional requirements and also participating in application integration efforts.</p>
+<p align="justify">As a Java Full Stack Developer with 1+ experience, responsible for designing and developing code for software components and applications based on non-functional requirements and also participating in application integration efforts. Experience with HTML | CSS | Bootstrap | JavaScript | SASS | React.js | Java | SpringBoot | Hibernate | MongoDB | MySQL</p>
 
 <p>&nbsp;</p>
 
