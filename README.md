@@ -5,11 +5,11 @@
 <h3 align="center">FULL STACK JAVA DEVELOPER</h3>
 
 <p align="justify">As a Java Full Stack Developer with 1+ experience, responsible for designing and developing code for software components and applications based on non-functional requirements and also participating in application integration efforts. Experience with HTML | CSS | Bootstrap | JavaScript | SASS | React.js | Java | SpringBoot | Hibernate | MongoDB | MySQL</p>
-
+<!---
 <p>&nbsp;</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratucardy&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-<!---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratucardy" alt="" /></a> </p>
 
 <ul>
