@@ -22,8 +22,6 @@
 <a href="https://medium.com/@dev.beratucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
 </p>
 
-<p>&nbsp;</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JAVASCRIPT"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -36,8 +34,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"  title="POSTMAN"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"   title="WEBPACK"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>&nbsp;&nbsp;
 </div>
-
-<p>&nbsp;</p>
 
 <h3 align="left">Statistics:</h3>
 
