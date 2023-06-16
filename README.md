@@ -4,25 +4,22 @@
 
 <h3 align="center">Jr. Front-End Developer</h3>
 
-<p align="justify">Junior Front-End Developer with experience in the software development lifecycle (SDLC) in developing and designing user experiences of Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and logical programming skills with a good understanding at the conceptual level.</p>
-
-<p>&nbsp;</p>
+<p align="justify">Junior Front-End Developer with 1+ year experience in the software development lifecycle (SDLC) in developing and designing user experiences of Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and logical programming skills with a good understanding at the conceptual level.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratucardy&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratucardy" alt="" /></a> </p>
 
 <ul>
-  <li>🔭 I'm currently working on <b>Gaming Pro Market project</b></li>
-  <li>📝 I regularly write articles on https://medium.com/@ownertr55</li>
-  <li>💬 Ask me about <b>React, JS, SASS, Bootstrap, Redux, CSS, HTML</b></li>
+  <li>🔭 I'm currently working on <b></b></li>
+  <li>📝 I regularly write articles on https://medium.com/@dev.beratucar</li>
+  <li>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, React, SASS, Redux</b></li>
 </ul>
-<p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beratucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://medium.com/@ownertr55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
+<a href="https://medium.com/@dev.beratucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
 </p>
 
 <p>&nbsp;</p>
