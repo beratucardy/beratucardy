@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">Jr. Front-End Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
-<p align="justify">Junior Front-End Developer with 1+ year experience in the software development lifecycle (SDLC) in developing and designing user experiences of Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and logical programming skills with a good understanding at the conceptual level.</p>
+<p align="justify">Front-End Developer with 1+ year experience in the software development lifecycle (SDLC) in developing and designing user experiences of Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and logical programming skills with a good understanding at the conceptual level.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratucardy&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
