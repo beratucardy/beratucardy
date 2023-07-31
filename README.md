@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratucardy" alt="" /></a> </p>
 
 <ul>
-  <li>🔭 I'm currently working on <b>React Native and Next.js</b></li>
+  <li>🔭 I'm currently working on <b>React Native</b></li>
   <li>📝 I regularly write articles on https://medium.com/@dev.beratucar</li>
   <li>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, React, SASS, Redux</b></li>
 </ul>
