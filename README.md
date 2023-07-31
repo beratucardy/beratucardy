@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 I'm currently working on <b>React Native</b></li>
   <li>📝 I regularly write articles on https://medium.com/@dev.beratucar</li>
-  <li>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, React, SASS, Redux</b></li>
+  <li>💬 Ask me about <b>SDLC, Jira, HTML, CSS, Bootstrap, JavaScript, SASS, Webpack, React, Redux</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
