@@ -12,7 +12,7 @@
 
 <ul>
   <!-- <li>🔭 I'm currently working on <b></b></li> -->
-  <li>📝 I regularly write articles on https://medium.com/@dev.beratucar</li>
+  <!-- <li>📝 I regularly write articles on https://medium.com/@dev.beratucar</li> -->
   <li>💬 Ask me about <b>SDLC, Jira, HTML, CSS, Bootstrap, JavaScript, SASS, Webpack, React, Redux, React Native, Nextjs</b></li>
 </ul>
 
