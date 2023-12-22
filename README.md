@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beratucar" target="_blank" rel="noreferrer" title="LINKEDIN"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://medium.com/@dev.beratucar" target="_blank" rel="noreferrer" title="MEDIUM"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="60" width="80" /></a>
-<a href="https://beratucar-portfolio.vercel.app/" target="_blank" rel="noreferrer"  title="PORTFOLIO"><img align="center" src="https://www.svgrepo.com/show/39138/portfolio.svg" alt="portfolio" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/beratucar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@dev.beratucar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="60" width="80" /></a>
+<a href="https://beratucar-portfolio.vercel.app/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/39138/portfolio.svg" alt="portfolio" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
