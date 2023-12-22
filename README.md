@@ -33,7 +33,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"   title="GIT-GITHUB"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"  title="POSTMAN"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"   title="WEBPACK"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>&nbsp;&nbsp;
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"   title="Nextjs"> <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"   title="NEXTJS"> <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"   title="FIGMA"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50"/> </a>&nbsp;&nbsp;
 </div>
 
 <h3 align="left">Statistics:</h3>
