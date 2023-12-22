@@ -18,24 +18,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beratucar" target="_blank" title="LINKEDIN"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://medium.com/@dev.beratucar" target="_blank" title="MEDIUM"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="60" width="80" /></a>
-<a href="https://beratucar-portfolio.vercel.app/" target="_blank"  title="PORTFOLIO"><img align="center" src="https://www.svgrepo.com/show/39138/portfolio.svg" alt="portfolio" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/beratucar" target="_blank" rel="noreferrer" title="LINKEDIN"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@dev.beratucar" target="_blank" rel="noreferrer" title="MEDIUM"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="60" width="80" /></a>
+<a href="https://beratucar-portfolio.vercel.app/" target="_blank" rel="noreferrer"  title="PORTFOLIO"><img align="center" src="https://www.svgrepo.com/show/39138/portfolio.svg" alt="portfolio" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JAVASCRIPT"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"   title="REACT & REACT NATIVE"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"   title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"   title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"   title="SASS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"   title="BOOTSTRAP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"   title="GIT-GITHUB"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"  title="POSTMAN"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"   title="WEBPACK"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"   title="NEXTJS"> <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="50" height="50"/> </a>
-<a href="https://www.figma.com" target="_blank" rel="noreferrer"   title="FIGMA"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JAVASCRIPT"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"   title="REACT & REACT NATIVE"> <img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"   title="HTML5"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"   title="CSS3"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"   title="SASS"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"   title="BOOTSTRAP"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"   title="GIT-GITHUB"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"  title="POSTMAN"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"   title="WEBPACK"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"   title="NEXTJS"> <img  align="center"src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="50" height="50"/> </a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"   title="FIGMA"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50"/> </a>
 </div>
 
 <h3 align="left">Statistics:</h3>
