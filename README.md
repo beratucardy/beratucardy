@@ -4,7 +4,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<p align="justify">Frontend Developer with 1+ year experience in the software development lifecycle (SDLC) in developing and designing user experiences of Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and logical programming skills with a good understanding at the conceptual level.</p>
+<p align="justify">Frontend Developer with over 2 years of experience in the software development lifecycle (SDLC) and Web Development, specializing in developing and designing user experiences for Internet/Intranet applications. Proficient in Node.js, HTML (HTML5), CSS (CSS3), Bootstrap, JavaScript, SASS, React.js, React Native, Redux.js, Next.js, and Git, with a strong adherence to W3C standards. Possesses excellent analytical and logical programming skills with a solid conceptual understanding. Demonstrates leadership, communication, teamwork, and problem-solving abilities, creating a collaborative environment that drives projects to success.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratucardy&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
