@@ -4,7 +4,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<p align="justify">Frontend Developer with 3+ years of professional experience in building scalable and maintainable web applications. Specialized in modern JavaScript and TypeScriptbased frameworks, particularly Vue.js and Nuxt.js, with hands-on experience in React.js and Next.js projects. Experienced in developing enterprise-level admin panels, data-driven interfaces, and complex user workflows. Familiar with Node.js, Express.js, MongoDB, and MySQL, supporting effective collaboration with backend teams and API-driven development. Strong focus on clean code, performance, and maintainable architecture. Effective team player with solid problem-solving skills and a strong understanding of frontend best practices.</p>
+<p align="justify">Frontend Developer with 3+ years of professional experience in building scalable and maintainable web applications. Specialized in modern JavaScript and TypeScript-based frameworks, particularly Vue.js and Nuxt.js, with hands-on experience in React.js and Next.js projects. Experienced in developing enterprise-level admin panels, data-driven interfaces, and complex user workflows. Familiar with Node.js, Express.js, MongoDB, and MySQL, supporting effective collaboration with backend teams and API-driven development. Strong focus on clean code, performance, and maintainable architecture. Effective team player with solid problem-solving skills and a strong understanding of frontend best practices.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratucardy&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
